@@ -1,7 +1,12 @@
 # Gems
+::RBNACL_LIBSODIUM_GEM_LIB_PATH = "‪C:/Users/esqam/Desktop/SexBot/libsodium.dll"
 require 'discordrb'
 require 'ostruct'
 require 'yaml'
+require 'bundler'
+
+
+
 
 # The main bot module.
 module Bot
