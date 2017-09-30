@@ -6,6 +6,7 @@ module Bot::DiscordCommands
       event.send '```merhaba (bota selam vermek istersen)```'
       event.send '```ping (botun hayatta olduğunu kontrol etmek istiyorsan)```'
       event.send '```rock paper scissors (taş kağıt makasta yenilmeyen bot, istersen şansını deneyebilirsin)```'
+      event.send '```roll (1den 100e kadar zar atar)```'
       event.send '```smash (denemeden bilemezsin)```'
     end
   end
